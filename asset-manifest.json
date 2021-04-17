@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/saicharan_assessment_rejolut/static/css/main.3cb3f7ad.chunk.css",
+    "main.js": "/saicharan_assessment_rejolut/static/js/main.14be074b.chunk.js",
+    "main.js.map": "/saicharan_assessment_rejolut/static/js/main.14be074b.chunk.js.map",
+    "runtime-main.js": "/saicharan_assessment_rejolut/static/js/runtime-main.24c57db9.js",
+    "runtime-main.js.map": "/saicharan_assessment_rejolut/static/js/runtime-main.24c57db9.js.map",
+    "static/js/2.f6d69213.chunk.js": "/saicharan_assessment_rejolut/static/js/2.f6d69213.chunk.js",
+    "static/js/2.f6d69213.chunk.js.map": "/saicharan_assessment_rejolut/static/js/2.f6d69213.chunk.js.map",
+    "static/js/3.fd229201.chunk.js": "/saicharan_assessment_rejolut/static/js/3.fd229201.chunk.js",
+    "static/js/3.fd229201.chunk.js.map": "/saicharan_assessment_rejolut/static/js/3.fd229201.chunk.js.map",
+    "index.html": "/saicharan_assessment_rejolut/index.html",
+    "static/css/main.3cb3f7ad.chunk.css.map": "/saicharan_assessment_rejolut/static/css/main.3cb3f7ad.chunk.css.map",
+    "static/js/2.f6d69213.chunk.js.LICENSE.txt": "/saicharan_assessment_rejolut/static/js/2.f6d69213.chunk.js.LICENSE.txt",
+    "static/media/bar-code.e79130c4.svg": "/saicharan_assessment_rejolut/static/media/bar-code.e79130c4.svg",
+    "static/media/cancel.470b3925.svg": "/saicharan_assessment_rejolut/static/media/cancel.470b3925.svg",
+    "static/media/covid.88635c4c.png": "/saicharan_assessment_rejolut/static/media/covid.88635c4c.png",
+    "static/media/home1.aa95f306.png": "/saicharan_assessment_rejolut/static/media/home1.aa95f306.png",
+    "static/media/home2.1c8b3f10.png": "/saicharan_assessment_rejolut/static/media/home2.1c8b3f10.png",
+    "static/media/i.ac93524c.svg": "/saicharan_assessment_rejolut/static/media/i.ac93524c.svg",
+    "static/media/logo-mobile.6267a6d9.svg": "/saicharan_assessment_rejolut/static/media/logo-mobile.6267a6d9.svg",
+    "static/media/logo.733e4668.svg": "/saicharan_assessment_rejolut/static/media/logo.733e4668.svg",
+    "static/media/menu-mobile.391cb284.svg": "/saicharan_assessment_rejolut/static/media/menu-mobile.391cb284.svg",
+    "static/media/message-mobile.b7a050f9.svg": "/saicharan_assessment_rejolut/static/media/message-mobile.b7a050f9.svg",
+    "static/media/message.0bd4813d.svg": "/saicharan_assessment_rejolut/static/media/message.0bd4813d.svg",
+    "static/media/mission.10dffd65.png": "/saicharan_assessment_rejolut/static/media/mission.10dffd65.png",
+    "static/media/notification-mobile.616fba90.svg": "/saicharan_assessment_rejolut/static/media/notification-mobile.616fba90.svg",
+    "static/media/notification.24c4d8bf.svg": "/saicharan_assessment_rejolut/static/media/notification.24c4d8bf.svg",
+    "static/media/portfolio.89919e50.svg": "/saicharan_assessment_rejolut/static/media/portfolio.89919e50.svg",
+    "static/media/properties.f0271988.svg": "/saicharan_assessment_rejolut/static/media/properties.f0271988.svg",
+    "static/media/right.51972639.svg": "/saicharan_assessment_rejolut/static/media/right.51972639.svg",
+    "static/media/save-money.f5369749.svg": "/saicharan_assessment_rejolut/static/media/save-money.f5369749.svg",
+    "static/media/search.645d0af3.svg": "/saicharan_assessment_rejolut/static/media/search.645d0af3.svg",
+    "static/media/wallet.e42b5992.svg": "/saicharan_assessment_rejolut/static/media/wallet.e42b5992.svg",
+    "static/media/wolf-packs.65d9280b.svg": "/saicharan_assessment_rejolut/static/media/wolf-packs.65d9280b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24c57db9.js",
+    "static/js/2.f6d69213.chunk.js",
+    "static/css/main.3cb3f7ad.chunk.css",
+    "static/js/main.14be074b.chunk.js"
+  ]
+}
