@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/saicharan_assessment_rejolut/static/css/main.3cb3f7ad.chunk.css",
+    "main.css": "/saicharan_assessment_rejolut/static/css/main.e74da1ae.chunk.css",
     "main.js": "/saicharan_assessment_rejolut/static/js/main.14be074b.chunk.js",
     "main.js.map": "/saicharan_assessment_rejolut/static/js/main.14be074b.chunk.js.map",
     "runtime-main.js": "/saicharan_assessment_rejolut/static/js/runtime-main.24c57db9.js",
@@ -10,7 +10,7 @@
     "static/js/3.fd229201.chunk.js": "/saicharan_assessment_rejolut/static/js/3.fd229201.chunk.js",
     "static/js/3.fd229201.chunk.js.map": "/saicharan_assessment_rejolut/static/js/3.fd229201.chunk.js.map",
     "index.html": "/saicharan_assessment_rejolut/index.html",
-    "static/css/main.3cb3f7ad.chunk.css.map": "/saicharan_assessment_rejolut/static/css/main.3cb3f7ad.chunk.css.map",
+    "static/css/main.e74da1ae.chunk.css.map": "/saicharan_assessment_rejolut/static/css/main.e74da1ae.chunk.css.map",
     "static/js/2.f6d69213.chunk.js.LICENSE.txt": "/saicharan_assessment_rejolut/static/js/2.f6d69213.chunk.js.LICENSE.txt",
     "static/media/bar-code.e79130c4.svg": "/saicharan_assessment_rejolut/static/media/bar-code.e79130c4.svg",
     "static/media/cancel.470b3925.svg": "/saicharan_assessment_rejolut/static/media/cancel.470b3925.svg",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.24c57db9.js",
     "static/js/2.f6d69213.chunk.js",
-    "static/css/main.3cb3f7ad.chunk.css",
+    "static/css/main.e74da1ae.chunk.css",
     "static/js/main.14be074b.chunk.js"
   ]
 }
